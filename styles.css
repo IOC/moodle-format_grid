@@ -139,7 +139,6 @@ div#gridmiddle-column > ul {
        -moz-box-sizing: content-box;
             box-sizing: content-box;
 }
-
 .course-content ul.gridicons li img {
     margin-top: 0;
 }
@@ -167,7 +166,7 @@ div#gridshadebox_overlay {
 #gridshadebox_content {
     background: #fff;
     min-height: 200px;
-    border: solid 2px #a71e38;
+    border: solid 2px #009cda;
 }
 body.jsenabled #gridshadebox_content.hide_content {
     display: none;
