@@ -157,7 +157,7 @@ class format_grid extends format_base {
      * @return string Default current selected image container colour.
      */
     public static function get_default_current_selected_image_container_colour() {
-        return '#ffc540';
+        return '#c4e4f8';
     }
 
     /**
