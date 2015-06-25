@@ -237,7 +237,7 @@ div#gridshadebox_overlay {
 }
 #gridshadebox_content {
     background: #fff;
-    border: solid 2px #a71e38;
+    border: solid 2px #009cda;
     min-height: 200px;
 }
 body.jsenabled #gridshadebox_content.hide_content {
